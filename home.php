@@ -11,7 +11,7 @@
             <h1>Jobcenter Inshallah</h1>
         </div>
         <div id="menuepunkte">
-        <nav>
+<nav>
   <ul>
     <li><a href="home.html">home</a></li>
     <li><a href="angebot.html">angebot</a></li>
