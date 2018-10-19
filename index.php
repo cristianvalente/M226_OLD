@@ -1,8 +1,8 @@
 <html>
-        <link href="home.css" rel="stylesheet" type="text/css" media="screen" />
+        
     <head>
     <title>Lueg sin gsicht</title>
-    
+    <link  rel="stylesheet" type="text/css" href="home.css"/>    
     </head>
 
 
