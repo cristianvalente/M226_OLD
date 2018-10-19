@@ -12,11 +12,14 @@
     <div id="head">
         <h1>Jobcenter Inshallah</h1>
     </div>
-    <div id="menue">
-        <?php
-        include 'menue.html';
-        ?>  
-    </div>
+    nav>
+  <ul>
+    <li><a href="home.html">home</a></li>
+    <li><a href="angebot.html">angebot</a></li>
+    <li><a href="ueberuns.html">Ueber uns</a></li>
+    <li><a href="upload.html">upload</a></li>
+  </ul>
+</nav>
     </div>
     <div id="inhalt">
         <p>Temporärjobs</p>   
