@@ -11,9 +11,14 @@
             <h1>Jobcenter Inshallah</h1>
         </div>
         <div id="menuepunkte">
-            <?php
-            include 'menue.html';
-            ?>  
+        <nav>
+  <ul>
+    <li><a href="home.html">home</a></li>
+    <li><a href="angebot.html">angebot</a></li>
+    <li><a href="ueberuns.html">Ueber uns</a></li>
+    <li><a href="upload.html">upload</a></li>
+  </ul>
+</nav>
         </div>
         </div>
         <div id="inhalt">
