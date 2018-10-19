@@ -13,12 +13,9 @@
         <h1>Jobcenter Inshallah</h1>
     </div>
     <div id="menue">
-            <div id="menuepunkte">
-                    <a href="#">Home</a>
-                    <a href="#">Angebot</a>
-                    <a href="#">Inserate</a>
-                    <a href="#">Upload</a>
-                    <a href="#">&Uuml;ber Uns</a>    
+        <?php
+        include 'menue.html';
+        ?>  
     </div>
     </div>
     <div id="inhalt">
