@@ -1,6 +1,8 @@
 <html>
+        <link href="home.css" rel="stylesheet" type="text/css" media="screen" />
     <head>
-    <title>Vallah Shene Man Dise</title>
+    <title>Lueg sin gsicht</title>
+    
     </head>
 
 
@@ -20,13 +22,6 @@
         <p>Dies ist ein Text</p>   
         <p>Hallooooooooo test</p>
     </div>
-
- <img src="ronaldo.jpg" alt="Bild ronaldo" width="1000" height="500" />
-
- $tage = array("Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag");
- $tag = date("w");
- echo $tage[$tag];
-
 </body>
 
 
