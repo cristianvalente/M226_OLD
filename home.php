@@ -10,7 +10,7 @@
         <div id="head">
             <h1>Jobcenter Inshallah</h1>
         </div>
-        <div id="menue">
+        <div id="menuepunkte">
             <?php
             include 'menue.html';
             ?>  
