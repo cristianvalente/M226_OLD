@@ -19,9 +19,9 @@
     </div>
     </div>
     <div id="inhalt">
-        <p>Dies ist ein Text</p>   
-        <p>Valente</p>
-        <p>Boss</p>
+        <p>Temporärjobs</p>   
+        <p>Baushtjell</p>
+        <p>Krankenstand Formuljar</p>
     </div>
 
 </body>
