@@ -13,7 +13,7 @@
     </div>
     <div id="menue">
         <?php
-            include 'menue.html'
+            include 'menue.html';
         ?>    
     </div>
     </div>
