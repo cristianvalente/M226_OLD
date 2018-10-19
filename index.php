@@ -9,6 +9,7 @@
 <body>
     <div id="webseite">
     <div id="header"></div>
+    <div id="head">
         <h1>Jobcenter Inshallah</h1>
     </div>
     <div id="menue">
@@ -17,11 +18,12 @@
         ?>    
     </div>
     </div>
-    
     <div id="inhalt">
         <p>Dies ist ein Text</p>   
-        <p>Hallooooooooo test</p>
+        <p>Valente</p>
+        <p>Boss</p>
     </div>
+
 </body>
 
 
