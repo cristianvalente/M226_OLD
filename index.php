@@ -1,7 +1,7 @@
 <html>
         
     <head>
-    <title>Lueg sin gsicht</title>
+    <title>Herzlich Willkommen bei Net-Jobs</title>
     <link  rel="stylesheet" type="text/css" href="home.css"/>    
     </head>
 
@@ -10,7 +10,7 @@
     <div id="webseite">
     <div id="header"></div>
     <div id="head">
-        <h1>Jobcenter Inshallah</h1>
+        <h1>Herzlich Willkommen bei Net-Jobs</h1>
     </div>
         <nav>
         <ul>
@@ -22,9 +22,9 @@
         </nav>
     </div>
     <div id="inhalt">
-        <p>Temporärjobs</p>   
-        <p>Baushtjell</p>
-        <p>Krankenstand Formuljar</p>
+        <p>Suchen Sie einen Job?</p>   
+        <p>Dann sind Sie bei uns genau richtig!</p>
+        <p>Zögern Sie nicht, ein Profil bei uns anzulegen! </p>
     </div>
 
 </body>
