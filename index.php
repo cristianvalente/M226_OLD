@@ -14,7 +14,7 @@
     </div>
         <nav>
         <ul>
-        <li><a href="home.html">home</a></li>
+        <li><a href="index.php">home</a></li>
         <li><a href="angebot.html">angebot</a></li>
         <li><a href="ueberuns.html">&uuml;ber uns</a></li>
         <li><a href="upload.html">upload</a></li>
