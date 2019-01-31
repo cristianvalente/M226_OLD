@@ -1,33 +1,12 @@
-<html>
-        
-    <head>
-    <title>Herzlich Willkommen bei Net-Jobs</title>
-    <link  rel="stylesheet" type="text/css" href="home.css"/>    
-    </head>
+<?php
 
+// comment out the following two lines when deployed to production
+defined('YII_DEBUG') or define('YII_DEBUG', true);
+defined('YII_ENV') or define('YII_ENV', 'dev');
 
-<body>
-    <div id="webseite">
-    <div id="header"></div>
-    <div id="head">
-        <h1>Herzlich Willkommen bei Net-Jobs</h1>
-    </div>
-        <nav>
-        <ul>
-        <li><a href="index.php">home</a></li>
-        <li><a href="angebot.html">angebot</a></li>
-        <li><a href="ueberuns.html">&uuml;ber uns</a></li>
-        <li><a href="upload.html">upload</a></li>
-        </ul>
-        </nav>
-    </div>
-    <div id="inhalt">
-        <p>Suchen Sie einen Job?</p>   
-        <p>Dann sind Sie bei uns genau richtig!</p>
-        <p>Zögern Sie nicht, ein Profil bei uns anzulegen! </p>
-    </div>
+require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../vendor/yiisoft/yii2/Yii.php';
 
-</body>
+$config = require __DIR__ . '/../config/web.php';
 
-
-</html>
+(new yii\web\Application($config))->run();
